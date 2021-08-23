@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>776790079095-48t9sc9ochblu6cvidm4nmu6lpc13uol.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.776790079095-48t9sc9ochblu6cvidm4nmu6lpc13uol</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>776790079095-o82jiklv0j6e8cs3v5ms2vjnjvmfesqu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCY2OfkRgVZqevN1BtGp6qk4BvCXJmFfgk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776790079095</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.deneme</string>
+	<key>PROJECT_ID</key>
+	<string>deneme-b5a4a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>deneme-b5a4a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776790079095:ios:35b55e6bcf1dd42131f872</string>
+</dict>
+</plist>
